@@ -1,7 +1,7 @@
 /////////My first slider/////////
 /////////Amazing's slides/////////
 let fetchCategoryShopingSlider = async () => {
-  let data = await fetch("../../db.json");
+  let data = await fetch("./db.json");
   let res = await data.json();
   let slider = res.categoryShoping.map((elem) => {
     return `
@@ -27,7 +27,7 @@ let fetchCategoryShopingSlider = async () => {
     .insertAdjacentHTML("afterbegin", firstSlide);
 };
 let fetchMontakhabSlider = async () => {
-  let data = await fetch("../../db.json");
+  let data = await fetch("./db.json");
   let res = await data.json();
   let slider = res.shegeftMontakhab.map((elem) => {
     return `
@@ -94,7 +94,7 @@ let fetchMontakhabSlider = async () => {
     .insertAdjacentHTML("afterbegin", firstSlide);
 };
 let fetchEtmamSlider = async () => {
-  let data = await fetch("../../db.json");
+  let data = await fetch("./db.json");
   let res = await data.json();
   let slider = res.shegeftEtmam.map((elem) => {
     return `
@@ -150,7 +150,7 @@ let fetchEtmamSlider = async () => {
     .insertAdjacentHTML("afterbegin", slider.join(""));
 };
 let fetchSerfareshiSlider = async () => {
-  let data = await fetch("../../db.json");
+  let data = await fetch("./db.json");
   let res = await data.json();
   let slider = res.shegeftSefareshi.map((elem) => {
     return `
@@ -200,7 +200,7 @@ let fetchSerfareshiSlider = async () => {
     .insertAdjacentHTML("afterbegin", slider.join(""));
 };
 let fetchmainProducts = async () => {
-  let data = await fetch("../../db.json");
+  let data = await fetch("./db.json");
   let res = await data.json();
   let product = res.mainProducts.map((elem) => {
     return `
