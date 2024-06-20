@@ -153,7 +153,7 @@ function toggleSection(sectionId) {
 ///////// Footer Mobile /////////
 
 let fetchStorySlider = async () => {
-  let data = await fetch("/db.json");
+  let data = await fetch("db.json");
   let res = await data.json();
   let AllStories = res.story.map((elem) => {
     return `
@@ -174,7 +174,7 @@ let fetchStorySlider = async () => {
     .insertAdjacentHTML("afterbegin", AllStories.join(""));
 };
 let fetchAmazingSlider = async () => {
-  let data = await fetch("/db.json");
+  let data = await fetch("db.json");
   let res = await data.json();
   let lastSlide = `
   <div class="swiper-slide rounded-l-lg">
@@ -280,7 +280,7 @@ let fetchAmazingSlider = async () => {
   .insertAdjacentHTML("afterbegin", firstSlide);    
 };
 let fetchBestBrandsSlider = async () => {
-  let data = await fetch("/db.json");
+  let data = await fetch("db.json");
   let res = await data.json();
   let lastBrand =  `
   <div class="swiper-slide">
