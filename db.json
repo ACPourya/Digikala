@@ -1,0 +1,880 @@
+{
+  "story": [
+    {
+      "id": 1,
+      "image": "./public/images/story/s1.jpg",
+      "storyTitle": "چراغ خواب دلخواهت رو اینجا بخر"
+    },
+    {
+      "id": 2,
+      "image": "./public/images/story/s2.jpg",
+      "storyTitle": "شب میام تو خوابت"
+    },
+    {
+      "id": 3,
+      "image": "./public/images/story/s3.jpg",
+      "storyTitle": "یه هندزفری با دو اسم مختلف!"
+    },
+    {
+      "id": 4,
+      "image": "./public/images/story/s4.jpg",
+      "storyTitle": "فوم شستشوی کودک سالوویتو"
+    },
+    {
+      "id": 5,
+      "image": "./public/images/story/s5.jpg",
+      "storyTitle": "هالا‌ مادرید!"
+    },
+    {
+      "id": 6,
+      "image": "./public/images/story/s6.jpg",
+      "storyTitle": "قمقمه ایون مدل سیلیکونی"
+    },
+    {
+      "id": 7,
+      "image": "./public/images/story/s7.jpg",
+      "storyTitle": "این گوشی بد جذابه!"
+    },
+    {
+      "id": 8,
+      "image": "./public/images/story/s8.jpg",
+      "storyTitle": "بلوک چینی با انبر"
+    },
+    {
+      "id": 9,
+      "image": "./public/images/story/s9.jpg",
+      "storyTitle": "نون چرخی ساخت قزوین 🔥"
+    },
+    {
+      "id": 10,
+      "image": "./public/images/story/s10.jpg",
+      "storyTitle": "تولید محتوات و متحول کن"
+    },
+    {
+      "id": 11,
+      "image": "./public/images/story/s11.jpg",
+      "storyTitle": "کوچولوها چی بخونن؟"
+    },
+    {
+      "id": 12,
+      "image": "./public/images/story/s12.jpg",
+      "storyTitle": "کوچولوها چی بخونن؟"
+    },
+    {
+      "id": 13,
+      "image": "./public/images/story/s13.jpg",
+      "storyTitle": "ازین شیک تر؟"
+    },
+    {
+      "id": 14,
+      "image": "./public/images/story/s14.jpg",
+      "storyTitle": "پُرپُشتی موها با مکمل «هِیر ویت»"
+    },
+    {
+      "id": 15,
+      "image": "./public/images/story/s15.jpg",
+      "storyTitle": "باشگاه سیّار🗿"
+    },
+    {
+      "id": 16,
+      "image": "./public/images/story/s16.jpg",
+      "storyTitle": "سه پایه نگهدارنده دوربین مدل 3110"
+    },
+    {
+      "id": 17,
+      "image": "./public/images/story/s17.jpg",
+      "storyTitle": "آنباکس Redmi Note 13 4G"
+    },
+    {
+      "id": 18,
+      "image": "./public/images/story/s18.jpg",
+      "storyTitle": "خوراک تاکسیای اینترنتی!"
+    },
+    {
+      "id": 19,
+      "image": "./public/images/story/s19.jpg",
+      "storyTitle": "وبکم ارزون بخریم یا نه ؟ 📷"
+    },
+    {
+      "id": 20,
+      "image": "./public/images/story/s20.jpg",
+      "storyTitle": "پوست حساس و تحریک‌‌پذیرتو با این بشور"
+    }
+  ],
+  "amazingOffer":[
+    {
+      "id": 1,
+      "image": "./public/images/amazing/p1.jpg",
+      "price": "۴,۸۹۹,۰۰۰",
+      "discount": "۵,۲۹۹,۰۰۰",
+      "off": "۸٪"
+    },
+    {
+      "id": 2,
+      "image": "./public/images/amazing/p2.jpg",
+      "price": "۷۲۹,۰۰۰",
+      "discount": "۹۰۰,۰۰۰",
+      "off": "۱۹٪"
+    },
+    {
+      "id": 3,
+      "image": "./public/images/amazing/p3.jpg",
+      "price": "۱۷۹,۰۰۰",
+      "discount": "۲۸۰,۰۰۰",
+      "off": "۳۶٪"
+    },
+    {
+      "id": 4,
+      "image": "./public/images/amazing/p4.jpg",
+      "price": "۲۹۹,۰۰۰",
+      "discount": "۴۵۰,۰۰۰",
+      "off": "۳۴٪"
+    },
+    {
+      "id": 5,
+      "image": "./public/images/amazing/p5.jpg",
+      "price": "۱۵۹,۰۰۰",
+      "discount": "۳۲۵,۰۰۰",
+      "off": "۵۱٪"
+    },
+    {
+      "id": 6,
+      "image": "./public/images/amazing/p6.jpg",
+      "price": "۳۹,۷۰۰",
+      "discount": "۶۰,۰۰۰",
+      "off": "۳۴٪"
+    },
+    {
+      "id": 7,
+      "image": "./public/images/amazing/p7.jpg",
+      "price": "۲۲۵,۰۰۰",
+      "discount": "۴۵۰,۰۰۰",
+      "off": "۵۰٪"
+    },
+    {
+      "id": 8,
+      "image": "./public/images/amazing/p8.jpg",
+      "price": "۱۰۳,۵۰۰",
+      "discount": "۱۲۸,۹۰۰",
+      "off": "۲۰٪"
+    },
+    {
+      "id": 9,
+      "image": "./public/images/amazing/p9.jpg",
+      "price": "۵۶,۹۰۰",
+      "discount": "۷۰,۷۰۰",
+      "off": "۲۰٪"
+    },
+    {
+      "id": 10,
+      "image": "./public/images/amazing/p10.jpg",
+      "price": "۵۴۹,۰۰۰",
+      "discount": "۹۵۰,۰۰۰",
+      "off": "۴۲٪"
+    },
+    {
+      "id": 11,
+      "image": "./public/images/amazing/p11.jpg",
+      "price": "۴۵۹,۰۰۰",
+      "discount": "۵۹۹,۰۰۰",
+      "off": "۲۳٪"
+    },
+    {
+      "id": 12,
+      "image": "./public/images/amazing/p12.jpg",
+      "price": "۱,۱۹۹,۰۰۰",
+      "discount": "۱,۴۱۰,۰۰۰",
+      "off": "۱۵٪"
+    }
+  ],
+  "bestBrands":[
+    {
+      "id": 1,
+      "image": "./public/images/best-brands/b-1.png",
+      "alt":"پریل"
+    },
+    {
+      "id": 2,
+      "image": "./public/images/best-brands/b-2.png",
+      "alt":"پرسیل"
+    },
+    {
+      "id": 3,
+      "image": "./public/images/best-brands/b-3.png",
+      "alt":"king star"
+    },
+    {
+      "id": 4,
+      "image": "./public/images/best-brands/b-4.png",
+      "alt":"Adata"
+    },
+    {
+      "id": 5,
+      "image": "./public/images/best-brands/b-5.png",
+      "alt":"Huawei"
+    },
+    {
+      "id": 6,
+      "image": "./public/images/best-brands/b-6.png",
+      "alt":"Pegah"
+    },
+    {
+      "id": 7,
+      "image": "./public/images/best-brands/b-7.png",
+      "alt":"چینی زرین ایران"
+    },
+    {
+      "id": 8,
+      "image": "./public/images/best-brands/b-8.png",
+      "alt":"Panter"
+    },
+    {
+      "id": 9,
+      "image": "./public/images/best-brands/b-9.png",
+      "alt":"Pakshoma"
+    },
+    {
+      "id": 10,
+      "image": "./public/images/best-brands/b-10.png",
+      "alt":"Mi"
+    },
+    {
+      "id": 11,
+      "image": "./public/images/best-brands/b-11.png",
+      "alt":"Eu Rho Vita"
+    }
+  ],
+  "categoryShoping":[
+    {
+      "id": 1,
+      "image": "./public/images/category-shoping/c-1.png",
+      "category":"موبایل",
+      "alt":"موبایل"
+    },
+    {
+      "id": 2,
+      "image": "./public/images/category-shoping/c-3.png",
+      "category":"کالای دیجیتال",
+      "alt":"کالای دیجیتال"
+    },
+    {
+      "id": 3,
+      "image": "./public/images/category-shoping/c-5.png",
+      "category":"خانه و آشپزخانه",
+      "alt":"خانه و آشپزخانه"
+    },
+    {
+      "id": 4,
+      "image": "./public/images/category-shoping/c-9.png",
+      "category":"مد و پوشاک",
+      "alt":"مد و پوشاک"
+    },
+    {
+      "id": 5,
+      "image": "./public/images/category-shoping/c-4.png",
+      "category":"کتاب، لوازم تحریر و هنر",
+      "alt":"کتاب، لوازم تحریر و هنر"
+    },
+    {
+      "id": 6,
+      "image": "./public/images/category-shoping/c-6.png",
+      "category":"اسباب بازی، کودک و نوزاد",
+      "alt":"اسباب بازی، کودک و نوزاد"
+    },
+    {
+      "id": 7,
+      "image": "./public/images/category-shoping/c-7.png",
+      "category":"لوازم خانگی برقی",
+      "alt":"لوازم خانگی برقی"
+    },
+    {
+      "id": 8,
+      "image": "./public/images/category-shoping/c-13.png",
+      "category":"زیبایی و سلامت",
+      "alt":"زیبایی و سلامت"
+    },
+    {
+      "id": 9,
+      "image": "./public/images/category-shoping/c-12.png",
+      "category":"ورزش و سفر",
+      "alt":"ورزش و سفر"
+    },
+    {
+      "id": 10,
+      "image": "./public/images/shegeft-angizha/image/grouping/c1.png",
+      "category":"ابزار آلات و تجهیزات",
+      "alt":"ابزار آلات و تجهیزات"
+    },
+    {
+      "id": 11,
+      "image": "./public/images/shegeft-angizha/image/grouping/c2.png",
+      "category":"خودرو و موتورسیکلت",
+      "alt":"خودرو و موتورسیکلت"
+    }
+  ],
+  "shegeftMontakhab": [
+    {
+      "id": 1,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p1.jpg",
+      "productName": "لوستر ام کی ای لایتینگ مدل مدرن کد Ringo-s-w60",
+      "price": "۳,۲۰۰,۰۰۰",
+      "discount": "۸۷۰,۰۰۰",
+      "off": "۲۶٪"
+    },
+    {
+      "id": 2,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p2.jpg",
+      "productName": "روغن موتور خودرو کاسپین مدل 20W-50 SL حجم 4 لیتر",
+      "price": "۳۴۹,۰۰۰",
+      "discount": "۴۴۲,۶۰۰",
+      "off": "۲۱٪"
+    },
+    {
+      "id": 3,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p3.jpg",
+      "productName": "ست تاپ و دامن دخترانه دل آویز مدل T278",
+      "price": "۲۵۰,۰۰۰",
+      "discount": "۴۵۰,۰۰۰",
+      "off": "۴۴٪"
+    },
+    {
+      "id": 4,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p4.jpg",
+      "productName": "لامپ اس ام دی 12 وات پارس شهاب پایه E27",
+      "price": "۴۷,۰۰۰",
+      "discount": "۵۹,۸۰۰",
+      "off": "۲۱٪"
+    },
+    {
+      "id": 5,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p5.jpg",
+      "productName": "دوربین تک چشمی کومت مدل 40X60 CO-20",
+      "price": "۴۸۰,۰۰۰",
+      "discount": "۷۸۰,۰۰۰",
+      "off": "۳۸٪"
+    },
+    {
+      "id": 6,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p6.jpg",
+      "productName": "اسپرسو ساز مباشی مدل  ME-ECM 2039",
+      "price": "۴,۹۷۷,۰۰۰",
+      "discount": "۶,۳۰۰,۰۰۰",
+      "off": "۲۱٪"
+    },
+    {
+      "id": 7,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p7.jpg",
+      "productName": "هدفون بلوتوثی نیا مدل   AirPods Pro2nd ",
+      "price": "۱,۴۷۵,۰۰۰",
+      "discount": "۲,۹۰۰,۰۰۰",
+      "off": "۴۹٪"
+    },
+    {
+      "id": 8,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p8.jpg",
+      "productName": "سشوار حرفه ای کنورث مدل KW-9020",
+      "price": "۷۹۹,۰۰۰",
+      "discount": "۱,۷۰۰,۰۰۰",
+      "off": "۷٪"
+    },
+    {
+      "id": 9,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p9.jpg",
+      "productName": "بازی فکری فندقچه مدل آمیرزا",
+      "price": "۲۹۹,۰۰۰",
+      "discount": "۳۶۸,۰۰۰",
+      "off": "۱۹٪"
+    },
+    {
+      "id": 10,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p10.jpg",
+      "productName": "لامپ ال ای دی 9 وات سایروکس مدل A60 پایه E27 بسته 2 عددی",
+      "price": "۵۲,۹۰۰",
+      "discount": "۷۰,۰۰۰",
+      "off": "۲۴٪"
+    },
+    {
+      "id": 11,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p11.jpg",
+      "productName": "تلویزیون ال ای دی هوشمند ایکس ویژن مدل 50XCU775 سایز 50 اینچ",
+      "price": "۱۵,۹۶۹,۰۰۰",
+      "discount": "۱۹,۴۰۰,۰۰۰",
+      "off": "۱۸٪"
+    },
+    {
+      "id": 12,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p12.jpg",
+      "productName": "دوربین تفنگ کومت مدل 1X35",
+      "price": "۱,۹۰۰,۰۰۰",
+      "discount": "۲,۶۵۰,۰۰۰",
+      "off": "۲۸٪"
+    },
+    {
+      "id": 13,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p13.jpg",
+      "productName": "ست سرویس بهداشتی همارا مدل Simple",
+      "price": "۲۰۹,۰۰۰",
+      "discount": "۳۶۰,۰۰۰",
+      "off": "۴۲٪"
+    },
+    {
+      "id": 14,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p14.jpg",
+      "productName": "هندزفری بلوتوثی مدل NEWEST G19PRO",
+      "price": "۴۷۷,۰۰۰",
+      "discount": "۹۰۰,۰۰۰",
+      "off": "۴۷٪"
+    },
+    {
+      "id": 15,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p15.jpg",
+      "productName": "مانيتور ال جی مدل 27MP400-B سايز 27 اينچ",
+      "price": "۵,۴۶۹,۰۰۰",
+      "discount": "۶,۳۰۰,۰۰۰",
+      "off": "۱۳٪"
+    },
+    {
+      "id": 16,
+      "image": "./public/images/shegeft-angizha/image/shegeft-montakhab/p16.jpg",
+      "productName": "مبدل برق هادرون مدل A10-1",
+      "price": "۱۱۸,۰۰۰",
+      "discount": "۱۴۷,۰۰۰",
+      "off": "۲۰٪"
+    }
+  ],
+  "shegeftEtmam": [
+    {
+      "id": 1,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p1.jpg",
+      "productName": "مسواک برقی اورال-بی مدل D16.513 U",
+      "price": "۲,۸۰۰,۰۰۰",
+      "discount": "۳,۳۹۰,۰۰۰",
+      "off": "۱۷٪"
+    },
+    {
+      "id": 2,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p2.jpg",
+      "productName": "باتری نیم قلمی سایروکس مدل سوپر آلکالاین کد LR03 بسته 8 عددی",
+      "price": "۷۹,۰۰۰",
+      "discount": "۱۰۹,۰۰۰",
+      "off": "۲۸٪"
+    },
+    {
+      "id": 3,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p3.jpg",
+      "productName": "خوشبو کننده ماشین آرئون مدل Perfume New Car",
+      "price": "۱۹۵,۰۰۰",
+      "discount": "۲۶۰,۰۰۰",
+      "off": "۱٪"
+    },
+    {
+      "id": 4,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p4.jpg",
+      "productName": "کیف دستی چرما اسپرت کد KGHE1",
+      "price": "۹۹۸,۰۰۰",
+      "discount": "۱,۴۹۰,۰۰۰",
+      "off": "۳۳٪"
+    },
+    {
+      "id": 5,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p5.jpg",
+      "productName": "پولوشرت آستین کوتاه مردانه باینت مدل 2261727005805",
+      "price": "۲۸۹,۰۰۰",
+      "discount": "۲۸۹,۰۰۰",
+      "off": "۴۲٪"
+    },
+    {
+      "id": 6,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p6.jpg",
+      "productName": "کیف رودوشی مارپلو مدل Mpo- 030",
+      "price": "۲۹۹,۰۰۰",
+      "discount": "۴۳۰,۰۰۰",
+      "off": "۳۰٪"
+    },
+    {
+      "id": 7,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p7.jpg",
+      "productName": "هندزفری بلوتوثی مدل YX09-5.3BT",
+      "price": "۵۹۹,۰۰۰",
+      "discount": "۲,۹۰۰,۰۰۰",
+      "off": "۷۹٪"
+    },
+    {
+      "id": 8,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p8.jpg",
+      "productName": "مجموعه 5 عددی دریل براشلس دی ال تی سی کد GHR599",
+      "price": "۲,۷۴۹,۰۰۰",
+      "discount": "۵,۵۰۰,۰۰۰",
+      "off": "۵۰٪"
+    },
+    {
+      "id": 9,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p9.jpg",
+      "productName": "مانيتور ال جی مدل 27MP400-B سايز 27 اينچ",
+      "price": "۵,۴۶۹,۰۰۰",
+      "discount": "۶,۳۰۰,۰۰۰",
+      "off": "۱۳٪"
+    },
+    {
+      "id": 10,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p10.jpg",
+      "productName": "اجاق سفری  مدل MRT - M1",
+      "price": "۱۵۱,۲۰۰",
+      "discount": "۱۸۰,۰۰۰",
+      "off": "۱۶٪"
+    },
+    {
+      "id": 11,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p11.jpg",
+      "productName": "کراپ‌تاپ زنانه دل آویز مدل H306",
+      "price": "۱۳۹,۰۰۰",
+      "discount": "۲۹۰,۰۰۰",
+      "off": "۵۲٪"
+    },
+    {
+      "id": 12,
+      "image": "./public/images/shegeft-angizha/image/shegeft-etmam/p12.jpg",
+      "productName": "مجموعه 26 عددی دریل پیچ گوشتی شارژی صنعتی یوبا کد 18 گیربکس",
+      "price": "۱,۲۹۹,۰۰۰",
+      "discount": "۲,۷۰۰,۰۰۰",
+      "off": "۵۲٪"
+    }
+  ],
+  "shegeftSefareshi": [
+    {
+      "id": 1,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p1.jpg",
+      "productName": "عینک آفتابی مردانه آلبرت وگ مدل JS8553C85-P258 Polarized Avantgarde Visionary",
+      "price": "۱,۹۴۹,۰۰۰",
+      "discount": "۶,۱۹۰,۰۰۰",
+      "off": "۶۹٪"
+    },
+    {
+      "id": 2,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p2.jpg",
+      "productName": "هندزفری کوکلاسیک مدل H1",
+      "price": "۱۱۹,۰۰۰",
+      "discount": "۴۹۰,۰۰۰",
+      "off": "۷۶٪"
+    },
+    {
+      "id": 3,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p3.jpg",
+      "productName": "عینک آفتابی اوگا مدل 0052-116597784",
+      "price": "۱,۱۲۷,۰۹۰",
+      "discount": "۲,۷۴۹,۰۰۰",
+      "off": "۵۹٪"
+    },
+    {
+      "id": 4,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p4.jpg",
+      "productName": "هدفون بلوتوثی مدل G5",
+      "price": "۴۴۴,۴۴۰",
+      "discount": "۱,۴۵۰,۰۰۰",
+      "off": "۶۹٪"
+    },
+    {
+      "id": 5,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p5.jpg",
+      "productName": "هندزفری بلوتوثی نیا مدل RS-320",
+      "price": "۱,۵۵۰,۰۰۰",
+      "discount": "۲,۹۰۰,۰۰۰",
+      "off": "۴۷٪"
+    },
+    {
+      "id": 6,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p6.jpg",
+      "productName": "عینک آفتابی مردانه کررا مدل 23203 5718140 CA TI",
+      "price": "۷۹۵,۰۰۰",
+      "discount": "۴,۰۰۰,۰۰۰",
+      "off": "۸۰٪"
+    },
+    {
+      "id": 7,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p7.jpg",
+      "productName": "ساعت هوشمند ورنا مدل W49 ultra with 7 Bands",
+      "price": "۷۷۵,۰۰۰",
+      "discount": "۱,۰۱۰,۰۰۰",
+      "off": "۲۳٪"
+    },
+    {
+      "id": 8,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p8.jpg",
+      "productName": "شارژر فندکی هیسکا مدل HCC-319 به همراه کابل تبدیل  USB-C",
+      "price": "۵۴۷,۰۰۰",
+      "discount": "۷۹۹,۰۰۰",
+      "off": "۳۲٪"
+    },
+    {
+      "id": 9,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p9.jpg",
+      "productName": "ساعت مچی عقربه ای زنانه لاروس مدل 0417-79244G",
+      "price": "۲,۳۰۰,۰۰۰",
+      "discount": "۳,۴۰۰,۰۰۰",
+      "off": "۳۲٪"
+    },
+    {
+      "id": 10,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p10.jpg",
+      "productName": "کابل AUX کوکلاسیک مدل OX8 طول 1 متر",
+      "price": "۹۹,۰۰۰",
+      "discount": "۲۹۸,۰۰۰",
+      "off": "۶۷٪"
+    },
+    {
+      "id": 11,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p11.jpg",
+      "productName": "شارژر فندکی 38 وات کوکلاسیک مدل D80 به همراه کابل USB-C",
+      "price": "۳۷۹,۰۰۰",
+      "discount": "۹۹۰,۰۰۰",
+      "off": "۶۲٪"
+    },
+    {
+      "id": 12,
+      "image": "./public/images/shegeft-angizha/image/shegeft-sefareshi/p12.jpg",
+      "productName": "هندزفری بلوتوثی مدل YX09-5.3BT",
+      "price": "۵۹۹,۰۰۰",
+      "discount": "۲,۹۰۰,۰۰۰",
+      "off": "۷۹٪"
+    }
+  ],
+  "mainProducts": [
+    {
+      "id": 1,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p1.jpg",
+      "productName": "کاغذ A4 کپی مکس مدل KNS بسته 500 عددی",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴.۴",
+      "price": "۱۳۲,۹۰۰",
+      "discount": "۱۶۹,۰۰۰",
+      "off": "۲۱٪"
+    },
+    {
+      "id": 2,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p2.jpg",
+      "productName": "ژل بهداشتی بانوان سروینا مدل Genital حجم 150 میلی لیتر",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴.۳",
+      "price": "۸۹,۹۰۰",
+      "discount": "۱۲۸,۰۰۰",
+      "off": "۳۰٪"
+    },
+    {
+      "id": 3,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p3.jpg",
+      "productName": "کتاب 48 قانون قدرت اثر رابرت گرین انتشارات هیتا",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴.۷",
+      "price": "۱۱۵,۰۰۰",
+      "discount": "۲۵۰,۰۰۰",
+      "off": "۵۴٪"
+    },
+    {
+      "id": 4,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p4.jpg",
+      "productName": "ست تی شرت و شلوارک مردانه آریان نخ باف مدل 17628 z",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴",
+      "price": "۵۸۰,۰۰۰",
+      "discount": "۱,۰۰۰,۰۰۰",
+      "off": "۴۲٪"
+    },
+    {
+      "id": 5,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p5.jpg",
+      "productName": "ادو تویلت مای مدل نومنی حجم 100 میلی لیتر مناسب برای بانوان",
+      "svg": "./public/images/svg/today-send-super-market.svg",
+      "svgText": "ارسال سریع سوپرمارکتی",
+      "rating": "۴.۱",
+      "price": "۵۲۷,۰۰۰",
+      "discount": "۷۰۹,۸۰۰",
+      "off": "۲۶٪"
+    },
+    {
+      "id": 6,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p6.jpg",
+      "productName": "ادو پرفیوم مردانه نیفتی مدل ساواج دیور  حجم 60 میلی لیتر",
+      "svg": "./public/images/svg/today-send-super-market.svg",
+      "svgText": "ارسال سریع سوپرمارکتی",
+      "rating": "۳.۳",
+      "price": "۱۶۹,۹۰۰",
+      "discount": "۳۸۰,۰۰۰",
+      "off": "۵۵٪"
+    },
+    {
+      "id": 7,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p7.jpg",
+      "productName": "بالم لب مای مدل Aloe Vera Nourishing",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴",
+      "price": "۴۹,۵۰۰",
+      "discount": "۷۲,۵۰۰",
+      "off": "۳۲٪"
+    },
+    {
+      "id": 8,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p8.jpg",
+      "productName": "کوکتل پدیکور ژبن پلاس مدل Star وزن 600 گرم بسته 12 عددی",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴.۲",
+      "price": "۱۵۵,۰۰۰",
+      "discount": "۲۰۰,۰۰۰",
+      "off": "۲۳٪"
+    },
+    {
+      "id": 9,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p9.jpg",
+      "productName": "کرم ضد آفتاب رنگی مای مدل SPF60 مناسب پوست های چرب و مختلط حجم 50 میلی لیتر",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴.۲",
+      "price": "۷۸,۴۳۰",
+      "discount": "۱۱۴,۱۰۰",
+      "off": "۳۱٪"
+    },
+    {
+      "id": 10,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p10.jpg",
+      "productName": "اسپری حالت دهنده مو کاسپین مدل کلاسیک حجم 500 میلی لیتر",
+      "svg": "./public/images/svg/today-send-super-market.svg",
+      "svgText": "ارسال سریع سوپرمارکتی",
+      "rating": "۴.۳",
+      "price": "۹۴,۰۰۰",
+      "discount": "۱۱۴,۹۰۰",
+      "off": "۱۸٪"
+    },
+    {
+      "id": 11,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p11.jpg",
+      "productName": "مانیتور نکسار مدل NDM-22VN سایز 22 اینچ",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴.۴",
+      "price": "۳,۳۱۹,۰۰۰",
+      "discount": "۳,۶۰۰,۰۰۰",
+      "off": "۸٪"
+    },
+    {
+      "id": 12,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p12.jpg",
+      "productName": "هدفون بلوتوثی کیو سی وای مدل T13 TWS",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴.۴",
+      "price": "۶۲۹,۰۰۰",
+      "discount": "۷۲۰,۰۰۰",
+      "off": "۱۳٪"
+    },
+    {
+      "id": 13,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p13.jpg",
+      "productName": "ادو پرفیوم مردانه نیفتی مدل مون بلان لجند بلک حجم 50 میلی لیتر",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۳.۵",
+      "price": "۱۵۸,۴۰۰",
+      "discount": "۳۹۰,۰۰۰",
+      "off": "۵۹٪"
+    },
+    {
+      "id": 14,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p14.jpg",
+      "productName": "ژل مو فولیکا مدل 01 حجم 150 میلی لیتر ",
+      "svg": "./public/images/svg/today-send-super-market.svg",
+      "svgText": "ارسال سریع سوپرمارکتی",
+      "rating": "۴.۱",
+      "price": "۴۲,۲۰۰",
+      "discount": "۶۹,۹۰۰",
+      "off": "۴۰٪"
+    },
+    {
+      "id": 15,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p15.jpg",
+      "productName": "کتاب سه شنبه گذشت اثر نیکی فرنچ نشر کتاب مجازی",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴.۵",
+      "price": "۱۶۹,۰۰۰",
+      "discount": "۲۳۰,۰۰۰",
+      "off": "۲۷٪"
+    },
+    {
+      "id": 16,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p16.jpg",
+      "productName": "اسپری نانو سرامیک بدنه خودرو اتولایف مدل TT حجم 300 میلی لیتر",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۳.۹",
+      "price": "۱۶۳,۸۰۰",
+      "discount": "۴۶۸,۰۰۰",
+      "off": "۶۵٪"
+    },
+    {
+      "id": 17,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p17.jpg",
+      "productName": "ماسک مو انجل کرفت مدل فری سولفات کراتین حجم 500 میلی لیتر",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴.۲",
+      "price": "۱۴۹,۷۰۰",
+      "discount": "۲۲۳,۲۰۰",
+      "off": "۳۳٪"
+    },
+    {
+      "id": 18,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p18.jpg",
+      "productName": "کنسول بازی سونی مدل PlayStation 5 Slim ظرفیت یک ترابایت ریجن 2016A اروپا",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴.۴",
+      "price": "۲۹,۳۹۹,۰۰۰",
+      "discount": "۳۲,۰۰۰,۰۰۰",
+      "off": "۸٪"
+    },
+    {
+      "id": 19,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p19.jpg",
+      "productName": "باتری نیم قلمی پاناتک مدل  Super Heavy Duty R 03 بسته 24 عددی",
+      "svg": "./public/images/svg/orange-salesman.svg",
+      "svgText": "ارسال فروشنده",
+      "rating": "۴.۳",
+      "price": "۱۸۹,۰۰۰",
+      "discount": "۳۹۸,۰۰۰",
+      "off": "۵۳٪"
+    },
+    {
+      "id": 20,
+      "image": "./public/images/shegeft-angizha/image/shegeft-main-products/p20.jpg",
+      "productName": "جوراب مردانه پالوته مدل PLT-SH-3R مجموعه 3 عددی",
+      "svg": "./public/images/svg/today-send.svg",
+      "svgText": "ارسال فردا",
+      "rating": "۴.۱",
+      "price": "۹۴,۹۰۰",
+      "discount": "۲۰۰,۰۰۰",
+      "off": "۵۳٪"
+    }
+  ],
+  "categories":[
+    {
+      "mobile":[
+     {
+      "brands":[
+      {
+        "id": 1,
+        "categoryHeading":"",
+        "categoryName": "",
+        "image": "",
+        "alt":""
+      }
+      ]
+      } 
+      ]
+    }
+  ]
+}
