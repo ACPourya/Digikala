@@ -251,7 +251,7 @@ let fetchAmazingSlider = async () => {
     .insertAdjacentHTML("afterbegin", allAmazing.join(""));
   let firstSlide = `
   <div class="swiper-slide !bg-transparent">
-  <a href="#" class="flex flex-col items-center gap-x-4">
+  <a href="./shegeftangizha.html" class="flex flex-col items-center gap-x-4">
     <img
       src="./public/images/svg/شگفت-انگیز.svg"
       alt=""
