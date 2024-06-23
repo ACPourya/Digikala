@@ -181,7 +181,7 @@ let fetchAmazingSlider = async () => {
   <div class="h-[252px] flex flex-col justify-center gap-x-4">
     <div class="flex flex-col">
       <a
-        href="#"
+        href="./shegeftangizha.html"
         class="flex flex-col gap-x-2 items-center my-2"
       >
         <div
